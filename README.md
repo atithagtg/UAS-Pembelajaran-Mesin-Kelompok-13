@@ -26,7 +26,7 @@ Evaluasi model dilakukan menggunakan:
 - R²
 
 ## Dataset
-Dataset yan digunakan berasal dari:
+Dataset yang digunakan berasal dari:
 
 *Kaggle, ASHRAE - Great Energy Predictor III*
 **https://www.kaggle.com/c/ashrae-energy-prediction** 
@@ -37,3 +37,7 @@ Dataset yan digunakan berasal dari:
 ### Progress-1
 Berisi:
 - Laporan proposal
+- Laporan Kemajuan
+- Laporan Akhir
+- Code Project
+- Data Clean
